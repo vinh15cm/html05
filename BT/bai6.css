@@ -1,0 +1,31 @@
+.center {
+    text-align: center;
+    border: 3px solid green;
+    padding: 10px;
+    width: 50%;
+    margin: auto;
+}
+.code-box {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 5px;
+    font-family: monospace;
+}
+.button {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-block;
+}
+.red{
+    color:red;
+}
+.blue{
+    color:blue;
+}
+.brown{
+    color:brown;
+}
