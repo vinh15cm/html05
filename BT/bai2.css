@@ -1,6 +1,6 @@
 .img{
-    width: 300px;
-    height: 200px;
+    width: 200px;
+    height: 260px;
     margin: 10px;
 }
 *{
@@ -12,4 +12,12 @@ h1{
 }
 i{
     color: rgb(6, 100, 14);
+}
+abbr{
+    color: rgb(25, 213, 238);
+    font-weight: bold; /* Có thể làm cho nó đậm hơn */
+    text-decoration: underline dotted; /* Gạch chân dạng chấm để làm nổi bật */
+}
+.green{
+    color: green;
 }
