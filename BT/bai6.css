@@ -10,6 +10,9 @@
     padding: 10px;
     border-radius: 5px;
     font-family: monospace;
+    width:90%;
+    margin-left: 100px;
+    margin-right: 400px;
 }
 .button {
     background-color: green;
@@ -28,4 +31,7 @@
 }
 .brown{
     color:brown;
+}
+.container{
+    background-color:gray;
 }
